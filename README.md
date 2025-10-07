@@ -48,14 +48,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antonyj26/antonyj26/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antonyj26/antonyj26/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/antonyj26/antonyj26/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyj26&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=false&order=2" height="147" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=antonyj26&locale=pt-br&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>

@@ -43,7 +43,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonyj26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="113" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyj26&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=false&order=2" height="147" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=antonyj26&locale=pt-br&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=antonyj26&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />

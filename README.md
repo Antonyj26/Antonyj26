@@ -1,7 +1,3 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="41" alt="typescript logo"  />
   <img width="12" />
@@ -30,15 +26,33 @@
 
 ###
 
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
+
 <p align="left">Me chamo Antony Almeida, tenho 24 anos e sou natural de Brasília. Sou desenvolvedor apaixonado por criar soluções web e atualmente estudo Análise e Desenvolvimento de Sistemas. Trabalho com React, TypeScript, Node.js, Express, PostgreSQL e Prisma, e estou aprofundando meus conhecimentos em Java, explorando desde interfaces interativas até a construção de APIs. Sempre busco novos desafios e aprendizados para transformar ideias em projetos reais e funcionais.</p>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="26" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="26" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="26" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/antony-josué-almeida-de-frança-784ba4202" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="26" alt="linkedin logo"  />
+  </a>
+  <a href="antonyj26" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="26" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/antonyj26" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="26" alt="instagram logo"  />
+  </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antonyj26/antonyj26/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antonyj26/antonyj26/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/antonyj26/antonyj26/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 

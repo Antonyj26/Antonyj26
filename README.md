@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">Me chamo Antony Almeida, tenho 24 anos e sou natural de Brasília. Sou desenvolvedor apaixonado por criar soluções web e atualmente estudo Análise e Desenvolvimento de Sistemas. Trabalho com React, TypeScript, Node.js, Express, PostgreSQL e Prisma, e estou aprofundando meus conhecimentos em Java, explorando desde interfaces interativas até a construção de APIs. Sempre busco novos desafios e aprendizados para transformar ideias em projetos reais e funcionais.</p>
+<p align="left">Desenvolvedor Full Stack com experiência em Node.js, Java EE , Java (Spring Boot) e React. Atuo na construção de APIs REST seguras e escaláveis, aplicando boas práticas como SOLID, Clean Code e arquitetura em camadas. Experiência com PostgreSQL, Prisma e JPA. Já desenvolvi sistemas em produção, focados na resolução de problemas reais.</p>
 
 ###
 
